@@ -1,0 +1,7 @@
+body {
+  height: 200vh;
+  width: 110vw;
+  background-image: url('staticomp.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
